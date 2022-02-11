@@ -10,6 +10,11 @@ Hold by: MCI (Mobile Telecommunication Company of Iran)
 1. Speech and Language Processing Book by Daniel Jurafsky and James H. Martin
 2. Foundations of statistical natural language processing
 
+* I highly recommend Daniel Jurafsky's youtube play list:
+
+https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv
+
+
 # Table of Content
 
 1. Week 1
