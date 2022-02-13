@@ -9,7 +9,7 @@
     4. Neural LM
 
 ---------
-Smoothing:
+Smoothing: smoothing is a cross domain concept, applied in many cases (namely [lable smoothing in machine learning](https://www.linkedin.com/pulse/label-smoothing-solving-overfitting-overconfidence-code-sobh-phd)). Here we focus on smooting in probabilistic language models, epecifically n-gram language models.
 
 
 --------
@@ -17,16 +17,11 @@ LM Evaluation:
 
 Entropy concept:
 
-+ Entropy and information theory 
-> https://www.youtube.com/watch?v=_PG-jJKB_do
-+ Entropy and tranmiting data and huffman coding
-> https://www.youtube.com/watch?v=M5c_RFKVkko
-+ Where the hell comes from the entropy fomula
-> https://www.youtube.com/watch?v=YtebGVx-Fxw
-+ Entropy and cross-entropy
-> https://www.youtube.com/watch?v=ErfnhcEV1O8
-+ Entropy and preplixity and its application in language models evaluation
-> https://www.youtube.com/watch?v=NCyCkgMLRiY&t=9s
++ [Entropy and information theory](https://www.youtube.com/watch?v=_PG-jJKB_do)
++ [Entropy and tranmiting data and huffman coding](https://www.youtube.com/watch?v=M5c_RFKVkko)
++ [Where the hell comes from the entropy fomula](https://www.youtube.com/watch?v=YtebGVx-Fxw)
++ [Entropy and cross-entropy](https://www.youtube.com/watch?v=ErfnhcEV1O8)
++ [Entropy and preplixity and its application in language models evaluation](https://www.youtube.com/watch?v=NCyCkgMLRiY&t=9s)
 
 ----------
 Neural Language Models:
