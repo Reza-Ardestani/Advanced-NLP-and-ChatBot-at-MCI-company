@@ -29,3 +29,8 @@ Neural Language Models:
 
 -----------
 # Further reading:
+
+> **Token vs word** : by Yaakov HaCohen-Kerner added an answer June 29, 2014
+A simplified definition of a token in NLP is as follows: A token is a string of contiguous characters between two spaces, or between a space and punctuation marks. A token can also be an integer, real, or a number with a colon (time, for example: 2:00). All other symbols are tokens themselves except apostrophes and quotation marks in a word (with no space), which in many cases symbolize acronyms or citations. A token can present a single word or a group of words (in morphologically rich languages such as Hebrew) as the following token "ולאחי" (VeLeAhi) that includes 4 words "And to my brother".
+A stirng as written by one of the previous researchers who responded
+is a oncept taken from programming languages.
