@@ -27,7 +27,7 @@ Entropy concept:
 ----------
 Neural Language Models:
 
-
+> [How to diagnose ML models?](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/) 
 -----------
 # Further reading:
 
