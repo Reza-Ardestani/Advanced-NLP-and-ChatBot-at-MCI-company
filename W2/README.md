@@ -28,6 +28,8 @@ Entropy concept:
 Neural Language Models:
 
 > [How to diagnose ML models?](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/) 
+
+> [Train vs Val/development vs test](https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7)
 -----------
 # Further reading:
 
