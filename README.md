@@ -95,4 +95,12 @@ https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv
 # Further Reading:
 1. How language models has been evolved: 
 
-> https://towardsdatascience.com/the-beginners-guide-to-language-models-aa47165b57f9
+> [NLP Models Timeline 0](https://towardsdatascience.com/the-beginners-guide-to-language-models-aa47165b57f9)
+
+> [NLP Models Timeline](https://medium.com/nlplanet/a-brief-timeline-of-nlp-from-bag-of-words-to-the-transformer-family-7caad8bbba56)
+
+> [33 important NLP tasks](https://medium.com/nlplanet/two-minutes-nlp-33-important-nlp-tasks-explained-31e2caad2b1b)
+
+> [A great Information Theory course](https://www.coursera.org/learn/information-theory#instructors)
+
+> [Another great Information Theory course](https://spectra.mathpix.com/article/2021.09.00014/info-theory)
