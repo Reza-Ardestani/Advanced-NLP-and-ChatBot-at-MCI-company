@@ -15,6 +15,14 @@ Hold by: MCI (Mobile Telecommunication Company of Iran)
 https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv
 
 
+# Certificate
+<figure>
+    <img src="MCI_Certificate_Ardestani.jpg" width="500" height="600" alt="Models weight calculation">
+    <figcaption>Official Certificate Issued by MCI company</figcaption>
+</figure>
+
+[**Link** to this certificate](https://storage.hamrah.academy/certificates/e0f07abd78d948f9b33c7bc38bcf96_certificates_KB7KO.jpg) 
+
 # Table of Content
 
 1. Week 1
